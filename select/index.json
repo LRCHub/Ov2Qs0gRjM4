@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "ケアレス",
+  "base_artist": "ClariS",
+  "createdAt": "2025-12-09T13:18:15.932061Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ケアレス",
+      "artist": "ClariS",
+      "has_synced": true,
+      "path": "select/01_ケアレス_ClariS.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ケアレス -Instrumental-",
+      "artist": "ClariS",
+      "has_synced": true,
+      "path": "select/02_ケアレス_-Instrumental-_ClariS.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ケアレス・ウィスパー",
+      "artist": "AIR",
+      "has_synced": true,
+      "path": "select/03_ケアレス・ウィスパー_AIR.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ケアレス",
+      "artist": "ClariS",
+      "has_synced": true,
+      "path": "select/04_ケアレス_ClariS.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ケアレス (Slushii Remix) - SACRA BEATS Singles",
+      "artist": "ClariS",
+      "has_synced": true,
+      "path": "select/05_ケアレス_(Slushii_Remix)_-_SACRA_BEATS_Singles_ClariS.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ケアレス",
+      "artist": "ClariS / TrySail",
+      "has_synced": true,
+      "path": "select/06_ケアレス_ClariS___TrySail.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ケアレス",
+      "artist": "ClariS",
+      "has_synced": true,
+      "path": "select/07_ケアレス_ClariS.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ケアレス",
+      "artist": "ClariS & TrySail",
+      "has_synced": true,
+      "path": "select/08_ケアレス_ClariS_&_TrySail.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ケアレス",
+      "artist": "ClariS",
+      "has_synced": false,
+      "path": "select/pl_01_ケアレス_ClariS.txt"
+    }
+  ]
+}
